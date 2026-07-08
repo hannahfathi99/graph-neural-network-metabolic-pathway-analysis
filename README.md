@@ -415,6 +415,7 @@ gnn-metabolic-pathway-analysis/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
+├── requirements.txt
 │
 ├── notebooks/
 │   └── GNN for Metabolic Pathway Analysis.ipynb
